@@ -33,7 +33,7 @@ var wms_layers = [];
             
             source: new ol.source.XYZ({
     attributions: ' ',
-                url: 'https://lmessmer.github.io/TestTiles/{Z}/{X}/{Y}.png'
+                url: 'https://lmessmer.github.io/TestTiles/{z}/{x}/{y}.png'
             })
         });
 
